@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "Producto actualizado",
+        "description": "Nueva descripción",
+        "price": 19.99,
+        "thumbnail": "ruta/imagen1.jpg",
+        "code": "ABc145",
+        "stock": 30
+    },
+    {
+        "id": 2,
+        "title": "Producto 2",
+        "description": "Descripción del producto 2",
+        "price": 15.99,
+        "thumbnail": "ruta/imagen2.jpg",
+        "code": "DEF456",
+        "stock": 20
+    }
+]
